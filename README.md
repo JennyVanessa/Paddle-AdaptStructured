@@ -1,2 +1,2 @@
-# Paddle-DE
-Unsupervised Monocular Depth Estimation with Left-Right Consistency
+# Paddle-Adapt
+Learning to Adapt Structured Output Space for Semantic Segmentation
